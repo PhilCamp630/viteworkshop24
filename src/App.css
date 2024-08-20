@@ -40,3 +40,8 @@
 .read-the-docs {
   color: #888;
 }
+
+
+body { 
+  background-image: linear-gradient(rgb(0, 0, 194), rgb(0, 0, 44));
+}
